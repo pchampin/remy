@@ -49,7 +49,7 @@ brew install cmake poppler-qt5
 # Install regular dependencies
 pip install requests arrow paramiko PyPDF2 PyQt5 simplification sip
 # Install python-poppler-qt5 using SIP5
-pip install git+git://github.com/frescobaldi/python-poppler-qt5@92e5962ec3751ab051d0b655fd61afc7a1cf709e
+pip install git+https://github.com/frescobaldi/python-poppler-qt5@92e5962ec3751ab051d0b655fd61afc7a1cf709e
 ```
 
 
